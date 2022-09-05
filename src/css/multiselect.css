@@ -1,0 +1,26 @@
+.multi-selection-wrapper {
+    border-radius: .20em;
+    border: 1px #cacaca solid;
+    margin-top: 2px;
+    min-height: 100px;
+    max-height: 200px;
+    overflow: auto;
+}
+.multi-selection-section {
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
+.multi-selection-section-header {
+    float: center;
+    color: #0d6efd;
+    border-bottom: 0.1em solid #6495ed;
+    display: block;
+    padding-top: 0.5em;
+    padding-bottom: 0.25em;
+}
+.multi-selection-label {
+    padding-left: 0.5em;
+}
+.multi-selection-hidden {
+    display: none;
+}
